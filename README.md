@@ -2,7 +2,7 @@
 
 ### Download and install
 ```
-git clone 
+git clone git@github.com:shaojinghong/react-simple-boilerplate.git
 cd react-simple-boilerplate
 npm i
 ```
