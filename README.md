@@ -1,5 +1,13 @@
 # react-simple-boilerplate
 
+### Features
+It contains features:
+- webpack dev server by express middleware
+- webpack hot replacement
+- css modules
+- express server and pug template
+- pm2 process manager
+
 ### Download and install
 ```
 git clone git@github.com:shaojinghong/react-simple-boilerplate.git
